@@ -1,6 +1,4 @@
 from Analizadores.Lexico import tokens
-from ..Estudiantes import Estudiante
-from ..Tareas import Tareas
 #diccionario de nombres
 names = {}
 
