@@ -1,0 +1,30 @@
+INICIO->INSTRUCCION
+
+INSTRUCCION -> ¿Elementos? LISTA_ELEMENTOS  ¿$Elementos?
+
+LISTA_ELEMENTOS -> LISTA_ELEMENTOS ELEMENTO
+    | ELEMENTO
+
+ELEMENTO -> ¿element TIPO = tipo ? ITEMS ¿$element?
+
+ITEMS -> ITEMS ITEM
+    | ITEM
+
+ITEM -> ¿item TIPO_ELEMENTO = VALOR_ITEM $?
+
+TIPO_ELEMENTO -> Carnet
+    | DPI
+    | Nombre
+    | Carrera
+    | Password
+    | Creditos
+    | Edad
+    | Correo
+    | Descripcion
+    | Materia
+    | Fecha
+    | Hora
+    | Estado
+
+VALOR_ITEM -> cadena
+    | numero
