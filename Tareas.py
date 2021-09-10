@@ -1,10 +1,10 @@
-class Tareas(object):
+class Tarea(object):
     
-    def __init__(self,carnet):
+    def __init__(self,carnet,nombre,desc,mate,fech,hora,est):
         self.carnet=carnet
-        self.Nombre=None
-        self.Descripcion=None
-        self.Materia=None
-        self.Fecha=None
-        self.Hora=None
-        self.Estado=None
+        self.Nombre=nombre
+        self.Descripcion=desc
+        self.Materia=mate
+        self.Fecha=fech
+        self.Hora=hora
+        self.Estado=est

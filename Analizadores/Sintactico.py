@@ -1,13 +1,13 @@
-from Tareas import Tareas
-from Estudiantes import Estudiante
+
 from Analizadores.Lexico import tokens
 
 #diccionario de nombres
+global tipo
 names = []
-
+tipo = list()
+estudiante = list()
 def p_statement_group(t):
     'statement : LQUESTION TELEMENTS RQUESTION elementos LQUESTION DOLAR TELEMENTS RQUESTION'
-    print('Ok')
     
 
 def p_elementos_group(t):
@@ -24,23 +24,25 @@ def p_tipoElemento(t):
     """tipoElemento : TTYPE IGUAL NORMSTRING
     """
 
-
+    tipo.append(t[3])
+    
+        
 def p_items(t):
     """items : items item
              | item
              """
-
+    
 
 def p_item(t):
     """item : LQUESTION TITEM tipoItem IGUAL valorItem DOLAR RQUESTION
     """
 
-
 def p_valorItem(t):
     """valorItem : NORMSTRING
                  | NUMERO
                  """
-    names.append((t[1]))
+    t[0] = t[1]
+    tipo.append(t[1])
 
 def p_tipoItem(t):
     """tipoItem : TCARNET
@@ -58,7 +60,6 @@ def p_tipoItem(t):
                 | TESTADO
                 | ID
                 """
-    
 
 def p_error(t):
     print("Error sintactico '%s'" % t.value)
