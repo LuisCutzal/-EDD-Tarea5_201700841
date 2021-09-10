@@ -5,3 +5,5 @@ if __name__ == '__main__':
     mensaje=f.read()
     f.close()
     parser.parse(mensaje)
+    for asd in names:
+        print ("as", asd)

@@ -45,7 +45,7 @@ def t_NUMERO(t):
 def t_NORMSTRING(t):
     r'\".*?\"'
     t.value = t.value[1:-1] # remuevo las comillas
-    print("la cadena es: ", t.value)
+    #print("la cadena es: ", t.value)
     return t    
 
 # Ignored characters

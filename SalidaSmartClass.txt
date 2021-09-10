@@ -2,7 +2,7 @@
 	¿element type="user"?
 		¿item Carnet = "201226238" $?
 		¿item DPI = "6392116180861" $?
-		¿item Nombre = "Lionel Messi"
+		¿item Nombre = "Lionel Messi" $?
 		¿item Carrera = "ingenieria Mecanica" $?
 		¿item Password = "0MPs7C3" $?
 		¿item Creditos = "223" $?
@@ -11,7 +11,7 @@
 	¿element type="user"?
 		¿item Carnet = "201551265" $?
 		¿item DPI = "7409348386473" $?
-		¿item Nombre = "Luis Garcia"
+		¿item Nombre = "Luis Garcia" $?
 		¿item Carrera = "ingenieria Electrica" $?
 		¿item Password = "5XjTg" $?
 		¿item Creditos = "84" $?
@@ -20,7 +20,7 @@
 	¿element type="user"?
 		¿item Carnet = "201350621" $?
 		¿item DPI = "8422078653292" $?
-		¿item Nombre = "Lionel Messi"
+		¿item Nombre = "Lionel Messi" $?
 		¿item Carrera = "ingenieria Quimica" $?
 		¿item Password = "PsJKx4" $?
 		¿item Creditos = "179" $?
@@ -29,7 +29,7 @@
 	¿element type="user"?
 		¿item Carnet = "201314874" $?
 		¿item DPI = "3168264245957" $?
-		¿item Nombre = "josue perez"
+		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Mecanica" $?
 		¿item Password = "Yng8ABo" $?
 		¿item Creditos = "191" $?
@@ -38,7 +38,7 @@
 	¿element type="user"?
 		¿item Carnet = "201632828" $?
 		¿item DPI = "2728745823021" $?
-		¿item Nombre = "josue perez"
+		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Mecanica industrial" $?
 		¿item Password = "8tp1I89" $?
 		¿item Creditos = "14" $?
@@ -47,7 +47,7 @@
 	¿element type="user"?
 		¿item Carnet = "201493615" $?
 		¿item DPI = "8772777408541" $?
-		¿item Nombre = "josue perez"
+		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Quimica" $?
 		¿item Password = "01z3hxz" $?
 		¿item Creditos = "79" $?
@@ -56,7 +56,7 @@
 	¿element type="user"?
 		¿item Carnet = "201309035" $?
 		¿item DPI = "6759320499265" $?
-		¿item Nombre = "Alma Maria Hernandez"
+		¿item Nombre = "Alma Maria Hernandez" $?
 		¿item Carrera = "ingenieria industrial" $?
 		¿item Password = "tF00KX" $?
 		¿item Creditos = "41" $?
@@ -65,7 +65,7 @@
 	¿element type="user"?
 		¿item Carnet = "201261302" $?
 		¿item DPI = "8624856009690" $?
-		¿item Nombre = "Alma Maria Hernandez"
+		¿item Nombre = "Alma Maria Hernandez" $?
 		¿item Carrera = "ingenieria Electrica" $?
 		¿item Password = "LqYd45" $?
 		¿item Creditos = "215" $?
@@ -74,7 +74,7 @@
 	¿element type="user"?
 		¿item Carnet = "201413927" $?
 		¿item DPI = "3088610119922" $?
-		¿item Nombre = "josue perez"
+		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Electrica" $?
 		¿item Password = "0C9430X" $?
 		¿item Creditos = "184" $?
@@ -83,7 +83,7 @@
 	¿element type="user"?
 		¿item Carnet = "201043472" $?
 		¿item DPI = "8408036295895" $?
-		¿item Nombre = "Lionel Messi"
+		¿item Nombre = "Lionel Messi" $?
 		¿item Carrera = "ingenieria Electrica" $?
 		¿item Password = "2E4IWf" $?
 		¿item Creditos = "229" $?
