@@ -8,13 +8,11 @@ tipo = list()
 estudiante = list()
 def p_statement_group(t):
     'statement : LQUESTION TELEMENTS RQUESTION elementos LQUESTION DOLAR TELEMENTS RQUESTION'
-    
 
 def p_elementos_group(t):
     """elementos : elementos elemento
                  | elemento    
                  """
-
 
 def p_elemento(t):
     'elemento : LQUESTION TELEMENT tipoElemento RQUESTION items LQUESTION DOLAR TELEMENT RQUESTION'

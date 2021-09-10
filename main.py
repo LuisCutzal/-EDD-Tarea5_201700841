@@ -19,6 +19,7 @@ if __name__ == '__main__':
 
     print("ESTUDIANTES")
     for a in range(len(lest)):
+        print("Estudiante numero: ",(a+1))
         print("Carnet: ",lest[a].carnet)
         print("DPI: ",lest[a].dpi)
         print("Nombre: ",lest[a].nombre)
@@ -27,9 +28,9 @@ if __name__ == '__main__':
         print("Contraseña: ",lest[a].password)
         print("Creditos: ",lest[a].creditos)
         print("Edad: ",lest[a].edad)
-    
     print("TAREAS")
     for b in range(len(ltar)):
+        print("Tarea numero: " , (b+1))
         print("Carnet: ",ltar[b].carnet)
         print("Nombre: ",ltar[b].Nombre)
         print("Descripcion: ",ltar[b].Descripcion)
@@ -37,3 +38,4 @@ if __name__ == '__main__':
         print("Fecha: ",ltar[b].Fecha)
         print("Hora: ",ltar[b].Hora)
         print("Estado: ",ltar[b].Estado)
+        

@@ -4,6 +4,7 @@
 		¿item DPI = "6392116180861" $?
 		¿item Nombre = "Lionel Messi" $?
 		¿item Carrera = "ingenieria Mecanica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "0MPs7C3" $?
 		¿item Creditos = "223" $?
 		¿item Edad = "29" $?
@@ -13,6 +14,7 @@
 		¿item DPI = "7409348386473" $?
 		¿item Nombre = "Luis Garcia" $?
 		¿item Carrera = "ingenieria Electrica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "5XjTg" $?
 		¿item Creditos = "84" $?
 		¿item Edad = "28" $?
@@ -22,6 +24,7 @@
 		¿item DPI = "8422078653292" $?
 		¿item Nombre = "Lionel Messi" $?
 		¿item Carrera = "ingenieria Quimica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "PsJKx4" $?
 		¿item Creditos = "179" $?
 		¿item Edad = "29" $?
@@ -31,6 +34,7 @@
 		¿item DPI = "3168264245957" $?
 		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Mecanica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "Yng8ABo" $?
 		¿item Creditos = "191" $?
 		¿item Edad = "21" $?
@@ -40,6 +44,7 @@
 		¿item DPI = "2728745823021" $?
 		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Mecanica industrial" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "8tp1I89" $?
 		¿item Creditos = "14" $?
 		¿item Edad = "27" $?
@@ -49,6 +54,7 @@
 		¿item DPI = "8772777408541" $?
 		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Quimica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "01z3hxz" $?
 		¿item Creditos = "79" $?
 		¿item Edad = "20" $?
@@ -58,6 +64,7 @@
 		¿item DPI = "6759320499265" $?
 		¿item Nombre = "Alma Maria Hernandez" $?
 		¿item Carrera = "ingenieria industrial" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "tF00KX" $?
 		¿item Creditos = "41" $?
 		¿item Edad = "25" $?
@@ -67,6 +74,7 @@
 		¿item DPI = "8624856009690" $?
 		¿item Nombre = "Alma Maria Hernandez" $?
 		¿item Carrera = "ingenieria Electrica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "LqYd45" $?
 		¿item Creditos = "215" $?
 		¿item Edad = "26" $?
@@ -76,6 +84,7 @@
 		¿item DPI = "3088610119922" $?
 		¿item Nombre = "josue perez" $?
 		¿item Carrera = "ingenieria Electrica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "0C9430X" $?
 		¿item Creditos = "184" $?
 		¿item Edad = "24" $?
@@ -85,6 +94,7 @@
 		¿item DPI = "8408036295895" $?
 		¿item Nombre = "Lionel Messi" $?
 		¿item Carrera = "ingenieria Electrica" $?
+		¿item Correo = "prueba@gmail.com" $?
 		¿item Password = "2E4IWf" $?
 		¿item Creditos = "229" $?
 		¿item Edad = "23" $?
